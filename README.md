@@ -2,13 +2,13 @@
 # Exploratory Data Analysis (EDA) – Freelancer Dataset (Fiktif)
 
 Dataset ini berisi data fiktif mengenai profil 1.001 freelancer dari berbagai negara di dunia.  
-Tujuan utama dari project ini adalah **latihan proses EDA** (*Exploratory Data Analysis*) termasuk penanganan data duplikat, missing value, normalisasi data, dan deteksi outlier.
+Tujuan utama dari project ini adalah latihan proses EDA (*Exploratory Data Analysis*) termasuk penanganan data duplikat, missing value, normalisasi data, dan deteksi outlier.
 
-## 📌 Tentang Dataset
+## Tentang Dataset
 - **Jumlah baris:** 1.001  
 - **Jumlah kolom:** 12  
 - **Sumber data:** Dibuat secara fiktif (bukan data asli).  
-- **Catatan:** Dataset aslinya terdiri dari 1.000 baris unik, kemudian **sengaja ditambahkan 1 baris duplikat** untuk keperluan demonstrasi tahap *handle duplicate*.
+- **Catatan:** Dataset aslinya terdiri dari 1.000 baris unik, kemudian sengaja ditambahkan 1 baris duplikat untuk keperluan demonstrasi tahap *handle duplicate*.
 
 ### Variabel Utama
 - `name` : Nama freelancer (fiktif)
